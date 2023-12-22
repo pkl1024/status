@@ -36,21 +36,21 @@
     "dailyMinutesDown": {}
   },
   {
-    "name": "✅JrebelBrainsLicenseServer",
+    "name": "✅JrebelLicenseServer",
     "url": "https://jrebel.wayok.cn",
     "icon": "https://icons.duckduckgo.com/ip3/jrebel.wayok.cn.ico",
-    "slug": "jrebel-brains-license-server",
+    "slug": "jrebel-license-server",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1492,
-    "timeDay": 1492,
-    "timeWeek": 1492,
-    "timeMonth": 1492,
-    "timeYear": 1492,
+    "time": 1031,
+    "timeDay": 1031,
+    "timeWeek": 1031,
+    "timeMonth": 1031,
+    "timeYear": 1031,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1452,
-    "timeDay": 1452,
-    "timeWeek": 1452,
-    "timeMonth": 1452,
-    "timeYear": 1452,
+    "time": 1251,
+    "timeDay": 1251,
+    "timeWeek": 1251,
+    "timeMonth": 1251,
+    "timeYear": 1251,
     "dailyMinutesDown": {}
   }
 ]
