@@ -1,7 +1,7 @@
 url: https://wayok.cn
-status: up
-code: 200
-responseTime: 9381
-lastUpdated: 2024-03-08T03:22:59.622Z
+status: down
+code: 502
+responseTime: 1299
+lastUpdated: 2024-03-08T05:48:25.531Z
 startTime: 2023-12-22T09:55:02.234Z
 generator: Upptime <https://github.com/upptime/upptime>
