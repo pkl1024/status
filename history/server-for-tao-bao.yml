@@ -1,7 +1,7 @@
 url: https://server.wayok.cn
-status: down
-code: 502
-responseTime: 1425
-lastUpdated: 2024-03-08T05:48:29.006Z
+status: up
+code: 200
+responseTime: 1305
+lastUpdated: 2024-03-08T05:57:36.028Z
 startTime: 2023-12-22T09:55:04.447Z
 generator: Upptime <https://github.com/upptime/upptime>
