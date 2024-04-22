@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/wayok.cn.ico",
     "slug": "way-blog",
     "status": "up",
-    "uptime": "97.66%",
-    "uptimeDay": "86.14%",
-    "uptimeWeek": "84.64%",
-    "uptimeMonth": "90.65%",
-    "uptimeYear": "97.66%",
+    "uptime": "97.61%",
+    "uptimeDay": "90.02%",
+    "uptimeWeek": "84.76%",
+    "uptimeMonth": "90.46%",
+    "uptimeYear": "97.61%",
     "time": 2526,
     "timeDay": 3658,
-    "timeWeek": 2401,
+    "timeWeek": 2407,
     "timeMonth": 2506,
     "timeYear": 2526,
     "dailyMinutesDown": {
-      "2024-04-21": 197,
+      "2024-04-21": 185,
       "2024-04-20": 204,
       "2024-04-19": 196,
       "2024-04-18": 262,
@@ -29,7 +29,7 @@
       "2024-04-01": 428,
       "2024-03-31": 559,
       "2024-03-30": 666,
-      "2024-03-29": 498
+      "2024-03-29": 595
     }
   },
   {
@@ -45,7 +45,7 @@
     "uptimeYear": "96.47%",
     "time": 1448,
     "timeDay": 1316,
-    "timeWeek": 1262,
+    "timeWeek": 1250,
     "timeMonth": 1524,
     "timeYear": 1448,
     "dailyMinutesDown": {
@@ -71,9 +71,9 @@
     "slug": "jrebel-license-server",
     "status": "up",
     "uptime": "86.09%",
-    "uptimeDay": "86.36%",
-    "uptimeWeek": "80.76%",
-    "uptimeMonth": "44.43%",
+    "uptimeDay": "90.19%",
+    "uptimeWeek": "81.63%",
+    "uptimeMonth": "44.40%",
     "uptimeYear": "86.09%",
     "time": 1314,
     "timeDay": 1331,
@@ -81,7 +81,7 @@
     "timeMonth": 1334,
     "timeYear": 1314,
     "dailyMinutesDown": {
-      "2024-04-21": 193,
+      "2024-04-21": 181,
       "2024-04-20": 192,
       "2024-04-19": 192,
       "2024-04-18": 257,
@@ -105,7 +105,7 @@
       "2024-03-31": 525,
       "2024-03-30": 643,
       "2024-03-29": 665,
-      "2024-03-28": 577
+      "2024-03-28": 603
     }
   },
   {
@@ -114,18 +114,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/pan.wayok.cn.ico",
     "slug": "pan",
     "status": "down",
-    "uptime": "37.26%",
+    "uptime": "37.25%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "37.26%",
+    "uptimeYear": "37.25%",
     "time": 1173,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1173,
     "dailyMinutesDown": {
-      "2024-04-21": 1404,
+      "2024-04-22": 41,
+      "2024-04-21": 1440,
       "2024-04-20": 1440,
       "2024-04-19": 1440,
       "2024-04-18": 1440,
