@@ -6,17 +6,17 @@
     "slug": "way-blog",
     "status": "up",
     "uptime": "98.62%",
-    "uptimeDay": "84.09%",
-    "uptimeWeek": "86.89%",
-    "uptimeMonth": "94.11%",
+    "uptimeDay": "85.05%",
+    "uptimeWeek": "87.56%",
+    "uptimeMonth": "94.10%",
     "uptimeYear": "98.62%",
     "time": 2536,
     "timeDay": 2573,
-    "timeWeek": 2420,
+    "timeWeek": 2432,
     "timeMonth": 2472,
     "timeYear": 2536,
     "dailyMinutesDown": {
-      "2024-04-29": 230,
+      "2024-04-29": 216,
       "2024-04-28": 78,
       "2024-04-27": 205,
       "2024-04-26": 252,
@@ -28,7 +28,7 @@
       "2024-04-20": 204,
       "2024-04-19": 196,
       "2024-04-18": 262,
-      "2024-04-17": 163
+      "2024-04-17": 181
     }
   },
   {
@@ -70,9 +70,9 @@
     "slug": "jrebel-license-server",
     "status": "up",
     "uptime": "98.63%",
-    "uptimeDay": "86.11%",
-    "uptimeWeek": "87.84%",
-    "uptimeMonth": "94.18%",
+    "uptimeDay": "87.04%",
+    "uptimeWeek": "88.50%",
+    "uptimeMonth": "94.17%",
     "uptimeYear": "98.63%",
     "time": 1323,
     "timeDay": 1781,
@@ -80,7 +80,7 @@
     "timeMonth": 1327,
     "timeYear": 1323,
     "dailyMinutesDown": {
-      "2024-04-29": 200,
+      "2024-04-29": 187,
       "2024-04-28": 61,
       "2024-04-27": 198,
       "2024-04-26": 249,
@@ -93,7 +93,7 @@
       "2024-04-19": 192,
       "2024-04-18": 257,
       "2024-04-17": 262,
-      "2024-04-16": 33
+      "2024-04-16": 51
     }
   },
   {
@@ -102,18 +102,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/pan.wayok.cn.ico",
     "slug": "pan",
     "status": "down",
-    "uptime": "34.96%",
+    "uptime": "34.95%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "34.96%",
+    "uptimeYear": "34.95%",
     "time": 1173,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1173,
     "dailyMinutesDown": {
-      "2024-04-29": 1391,
+      "2024-04-30": 39,
+      "2024-04-29": 1440,
       "2024-04-28": 1440,
       "2024-04-27": 1440,
       "2024-04-26": 1440,
