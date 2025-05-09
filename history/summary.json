@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/wayok.cn.ico",
     "slug": "way-blog",
     "status": "up",
-    "uptime": "93.36%",
+    "uptime": "93.37%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "91.14%",
-    "time": 1886,
-    "timeDay": 1417,
-    "timeWeek": 1579,
-    "timeMonth": 1534,
-    "timeYear": 1758,
+    "uptimeYear": "91.17%",
+    "time": 1885,
+    "timeDay": 1786,
+    "timeWeek": 1563,
+    "timeMonth": 1535,
+    "timeYear": 1751,
     "dailyMinutesDown": {
       "2025-03-19": 651,
       "2025-03-18": 1353,
@@ -62,8 +62,7 @@
       "2024-05-29": 30,
       "2024-05-18": 19,
       "2024-05-11": 107,
-      "2024-05-10": 243,
-      "2024-05-09": 222
+      "2024-05-10": 243
     }
   },
   {
@@ -78,10 +77,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.15%",
     "time": 1293,
-    "timeDay": 845,
-    "timeWeek": 1120,
-    "timeMonth": 1110,
-    "timeYear": 1260,
+    "timeDay": 961,
+    "timeWeek": 1071,
+    "timeMonth": 1098,
+    "timeYear": 1259,
     "dailyMinutesDown": {
       "2025-03-18": 639,
       "2025-03-17": 1440,
@@ -112,18 +111,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/jrebel.wayok.cn.ico",
     "slug": "jrebel-license-server",
     "status": "down",
-    "uptime": "63.45%",
+    "uptime": "63.32%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "49.97%",
-    "time": 1284,
+    "uptimeYear": "49.73%",
+    "time": 1285,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1282,
+    "timeYear": 1281,
     "dailyMinutesDown": {
-      "2025-05-08": 60,
+      "2025-05-09": 59,
+      "2025-05-08": 1440,
       "2025-05-07": 1440,
       "2025-05-06": 1440,
       "2025-05-05": 1440,
@@ -315,8 +315,7 @@
       "2024-05-13": 1440,
       "2024-05-12": 1440,
       "2024-05-11": 1110,
-      "2024-05-10": 185,
-      "2024-05-09": 218
+      "2024-05-10": 185
     }
   },
   {
@@ -325,18 +324,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/pan.wayok.cn.ico",
     "slug": "pan",
     "status": "down",
-    "uptime": "12.35%",
+    "uptime": "12.33%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "4.60%",
-    "time": 1119,
+    "time": 1116,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1113,
     "dailyMinutesDown": {
-      "2025-05-08": 60,
+      "2025-05-09": 59,
+      "2025-05-08": 1440,
       "2025-05-07": 1440,
       "2025-05-06": 1440,
       "2025-05-05": 1440,
@@ -685,8 +685,7 @@
       "2024-05-13": 1440,
       "2024-05-12": 1440,
       "2024-05-11": 1440,
-      "2024-05-10": 1440,
-      "2024-05-09": 1440
+      "2024-05-10": 1440
     }
   }
 ]
