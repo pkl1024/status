@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/wayok.cn.ico",
     "slug": "way-blog",
     "status": "up",
-    "uptime": "93.61%",
+    "uptime": "93.62%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "91.28%",
-    "time": 1792,
-    "timeDay": 3261,
-    "timeWeek": 1964,
-    "timeMonth": 1686,
-    "timeYear": 1681,
+    "time": 1791,
+    "timeDay": 1507,
+    "timeWeek": 1873,
+    "timeMonth": 1687,
+    "timeYear": 1680,
     "dailyMinutesDown": {
       "2025-03-19": 651,
       "2025-03-18": 1353,
@@ -58,8 +58,7 @@
       "2024-08-30": 1440,
       "2024-08-29": 1440,
       "2024-08-28": 466,
-      "2024-07-27": 46,
-      "2024-05-29": 30
+      "2024-07-27": 46
     }
   },
   {
@@ -68,15 +67,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/server.wayok.cn.ico",
     "slug": "server-for-tao-bao",
     "status": "up",
-    "uptime": "96.53%",
+    "uptime": "96.54%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.15%",
-    "time": 1291,
-    "timeDay": 1316,
-    "timeWeek": 1177,
-    "timeMonth": 1176,
+    "time": 1289,
+    "timeDay": 1062,
+    "timeWeek": 1157,
+    "timeMonth": 1178,
     "timeYear": 1258,
     "dailyMinutesDown": {
       "2025-03-18": 639,
@@ -108,7 +107,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/jrebel.wayok.cn.ico",
     "slug": "jrebel-license-server",
     "status": "down",
-    "uptime": "61.02%",
+    "uptime": "60.90%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -119,7 +118,8 @@
     "timeMonth": 0,
     "timeYear": 1260,
     "dailyMinutesDown": {
-      "2025-05-28": 61,
+      "2025-05-29": 61,
+      "2025-05-28": 1440,
       "2025-05-27": 1440,
       "2025-05-26": 1440,
       "2025-05-25": 1440,
@@ -311,8 +311,7 @@
       "2024-06-02": 1440,
       "2024-06-01": 1440,
       "2024-05-31": 1440,
-      "2024-05-30": 1440,
-      "2024-05-29": 1440
+      "2024-05-30": 1440
     }
   },
   {
@@ -321,18 +320,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/pan.wayok.cn.ico",
     "slug": "pan",
     "status": "down",
-    "uptime": "11.88%",
+    "uptime": "11.86%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "4.60%",
-    "time": 1112,
+    "time": 1109,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1113,
     "dailyMinutesDown": {
-      "2025-05-28": 61,
+      "2025-05-29": 61,
+      "2025-05-28": 1440,
       "2025-05-27": 1440,
       "2025-05-26": 1440,
       "2025-05-25": 1440,
@@ -681,8 +681,7 @@
       "2024-06-02": 1440,
       "2024-06-01": 1440,
       "2024-05-31": 1440,
-      "2024-05-30": 1440,
-      "2024-05-29": 1440
+      "2024-05-30": 1440
     }
   }
 ]
