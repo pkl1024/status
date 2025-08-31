@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/wayok.cn.ico",
     "slug": "way-blog",
     "status": "up",
-    "uptime": "94.39%",
+    "uptime": "94.40%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.84%",
-    "uptimeYear": "91.33%",
-    "time": 1683,
-    "timeDay": 1626,
-    "timeWeek": 1867,
-    "timeMonth": 1741,
+    "uptimeYear": "91.61%",
+    "time": 1682,
+    "timeDay": 1628,
+    "timeWeek": 1875,
+    "timeMonth": 1748,
     "timeYear": 1636,
     "dailyMinutesDown": {
       "2025-08-19": 72,
@@ -56,8 +56,7 @@
       "2024-09-04": 1440,
       "2024-09-03": 1440,
       "2024-09-02": 1440,
-      "2024-09-01": 1440,
-      "2024-08-31": 1440
+      "2024-09-01": 1440
     }
   },
   {
@@ -72,9 +71,9 @@
     "uptimeMonth": "99.84%",
     "uptimeYear": "96.07%",
     "time": 1250,
-    "timeDay": 1136,
-    "timeWeek": 1280,
-    "timeMonth": 1208,
+    "timeDay": 1252,
+    "timeWeek": 1294,
+    "timeMonth": 1216,
     "timeYear": 1217,
     "dailyMinutesDown": {
       "2025-08-19": 72,
@@ -108,7 +107,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/jrebel.wayok.cn.ico",
     "slug": "jrebel-license-server",
     "status": "down",
-    "uptime": "51.72%",
+    "uptime": "51.63%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -119,7 +118,8 @@
     "timeMonth": 0,
     "timeYear": 1157,
     "dailyMinutesDown": {
-      "2025-08-30": 54,
+      "2025-08-31": 61,
+      "2025-08-30": 1440,
       "2025-08-29": 1440,
       "2025-08-28": 1440,
       "2025-08-27": 1440,
@@ -392,8 +392,7 @@
       "2024-09-26": 254,
       "2024-09-25": 359,
       "2024-09-02": 359,
-      "2024-09-01": 1440,
-      "2024-08-31": 1440
+      "2024-09-01": 1440
     }
   },
   {
@@ -402,7 +401,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/pan.wayok.cn.ico",
     "slug": "pan",
     "status": "down",
-    "uptime": "10.07%",
+    "uptime": "10.05%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -413,7 +412,8 @@
     "timeMonth": 0,
     "timeYear": 1113,
     "dailyMinutesDown": {
-      "2025-08-30": 54,
+      "2025-08-31": 61,
+      "2025-08-30": 1440,
       "2025-08-29": 1440,
       "2025-08-28": 1440,
       "2025-08-27": 1440,
@@ -762,8 +762,7 @@
       "2024-09-04": 1440,
       "2024-09-03": 1440,
       "2024-09-02": 1440,
-      "2024-09-01": 1440,
-      "2024-08-31": 1440
+      "2024-09-01": 1440
     }
   }
 ]
