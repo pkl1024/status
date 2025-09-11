@@ -9,11 +9,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.84%",
-    "uptimeYear": "94.34%",
+    "uptimeYear": "94.62%",
     "time": 1682,
-    "timeDay": 1681,
-    "timeWeek": 1752,
-    "timeMonth": 1747,
+    "timeDay": 1763,
+    "timeWeek": 1716,
+    "timeMonth": 1753,
     "timeYear": 1639,
     "dailyMinutesDown": {
       "2025-08-19": 72,
@@ -45,8 +45,7 @@
       "2024-09-15": 1440,
       "2024-09-14": 1440,
       "2024-09-13": 1440,
-      "2024-09-12": 1440,
-      "2024-09-11": 1440
+      "2024-09-12": 1440
     }
   },
   {
@@ -59,12 +58,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.84%",
-    "uptimeYear": "96.89%",
+    "uptimeYear": "97.16%",
     "time": 1250,
-    "timeDay": 1259,
-    "timeWeek": 1216,
+    "timeDay": 1137,
+    "timeWeek": 1232,
     "timeMonth": 1234,
-    "timeYear": 1214,
+    "timeYear": 1213,
     "dailyMinutesDown": {
       "2025-08-19": 72,
       "2025-06-16": 371,
@@ -83,8 +82,7 @@
       "2024-09-26": 254,
       "2024-09-25": 360,
       "2024-09-13": 715,
-      "2024-09-12": 1440,
-      "2024-09-11": 1440
+      "2024-09-12": 1440
     }
   },
   {
@@ -93,18 +91,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/jrebel.wayok.cn.ico",
     "slug": "jrebel-license-server",
     "status": "down",
-    "uptime": "50.81%",
+    "uptime": "50.73%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "24.22%",
+    "uptimeYear": "23.95%",
     "time": 1256,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1151,
+    "timeYear": 1149,
     "dailyMinutesDown": {
-      "2025-09-10": 55,
+      "2025-09-11": 56,
+      "2025-09-10": 1440,
       "2025-09-09": 1440,
       "2025-09-08": 1440,
       "2025-09-07": 1440,
@@ -395,7 +394,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/pan.wayok.cn.ico",
     "slug": "pan",
     "status": "down",
-    "uptime": "9.89%",
+    "uptime": "9.88%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -406,7 +405,8 @@
     "timeMonth": 0,
     "timeYear": 1113,
     "dailyMinutesDown": {
-      "2025-09-10": 55,
+      "2025-09-11": 56,
+      "2025-09-10": 1440,
       "2025-09-09": 1440,
       "2025-09-08": 1440,
       "2025-09-07": 1440,
@@ -755,8 +755,7 @@
       "2024-09-15": 1440,
       "2024-09-14": 1440,
       "2024-09-13": 1440,
-      "2024-09-12": 1440,
-      "2024-09-11": 1440
+      "2024-09-12": 1440
     }
   }
 ]
