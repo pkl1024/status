@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/wayok.cn.ico",
     "slug": "way-blog",
     "status": "up",
-    "uptime": "93.50%",
+    "uptime": "93.51%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "94.98%",
-    "time": 1642,
-    "timeDay": 1767,
-    "timeWeek": 1596,
-    "timeMonth": 1665,
+    "time": 1641,
+    "timeDay": 1313,
+    "timeWeek": 1574,
+    "timeMonth": 1664,
     "timeYear": 1653,
     "dailyMinutesDown": {
       "2025-09-28": 437,
@@ -48,15 +48,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/server.wayok.cn.ico",
     "slug": "server-for-tao-bao",
     "status": "up",
-    "uptime": "96.30%",
+    "uptime": "96.31%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.72%",
+    "uptimeYear": "96.00%",
     "time": 1211,
-    "timeDay": 1261,
-    "timeWeek": 1208,
-    "timeMonth": 1185,
+    "timeDay": 1126,
+    "timeWeek": 1210,
+    "timeMonth": 1188,
     "timeYear": 1192,
     "dailyMinutesDown": {
       "2025-09-22": 594,
@@ -75,8 +75,7 @@
       "2025-03-16": 1440,
       "2025-03-15": 1440,
       "2025-03-14": 1440,
-      "2025-03-13": 1338,
-      "2024-12-13": 888
+      "2025-03-13": 1338
     }
   },
   {
@@ -85,16 +84,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/jrebel.wayok.cn.ico",
     "slug": "jrebel-license-server",
     "status": "up",
-    "uptime": "54.62%",
+    "uptime": "54.69%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "20.48%",
-    "time": 1174,
-    "timeDay": 1358,
-    "timeWeek": 1170,
-    "timeMonth": 1195,
-    "timeYear": 1166,
+    "uptimeYear": "20.75%",
+    "time": 1172,
+    "timeDay": 968,
+    "timeWeek": 1162,
+    "timeMonth": 1200,
+    "timeYear": 1164,
     "dailyMinutesDown": {
       "2025-09-28": 437,
       "2025-09-27": 1440,
@@ -384,8 +383,7 @@
       "2024-12-17": 1440,
       "2024-12-16": 1440,
       "2024-12-15": 1440,
-      "2024-12-14": 1440,
-      "2024-12-13": 1440
+      "2024-12-14": 1440
     }
   },
   {
@@ -394,7 +392,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/pan.wayok.cn.ico",
     "slug": "pan",
     "status": "down",
-    "uptime": "8.62%",
+    "uptime": "8.60%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -403,9 +401,10 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1230,
+    "timeYear": 1235,
     "dailyMinutesDown": {
-      "2025-12-12": 64,
+      "2025-12-13": 60,
+      "2025-12-12": 1440,
       "2025-12-11": 1440,
       "2025-12-10": 1440,
       "2025-12-09": 1440,
@@ -768,8 +767,7 @@
       "2024-12-17": 1440,
       "2024-12-16": 1440,
       "2024-12-15": 1440,
-      "2024-12-14": 1440,
-      "2024-12-13": 1440
+      "2024-12-14": 1440
     }
   }
 ]
