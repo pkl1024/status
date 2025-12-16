@@ -11,9 +11,9 @@
     "uptimeMonth": "97.90%",
     "uptimeYear": "94.80%",
     "time": 1642,
-    "timeDay": 1953,
-    "timeWeek": 1633,
-    "timeMonth": 1659,
+    "timeDay": 1560,
+    "timeWeek": 1644,
+    "timeMonth": 1656,
     "timeYear": 1653,
     "dailyMinutesDown": {
       "2025-12-13": 918,
@@ -54,10 +54,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.15%",
-    "time": 1210,
-    "timeDay": 1067,
-    "timeWeek": 1175,
-    "timeMonth": 1176,
+    "time": 1209,
+    "timeDay": 1064,
+    "timeWeek": 1179,
+    "timeMonth": 1174,
     "timeYear": 1191,
     "dailyMinutesDown": {
       "2025-09-22": 594,
@@ -85,16 +85,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/jrebel.wayok.cn.ico",
     "slug": "jrebel-license-server",
     "status": "up",
-    "uptime": "54.81%",
+    "uptime": "54.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "21.30%",
-    "time": 1172,
-    "timeDay": 1134,
-    "timeWeek": 1153,
-    "timeMonth": 1210,
-    "timeYear": 1166,
+    "uptimeYear": "21.57%",
+    "time": 1170,
+    "timeDay": 959,
+    "timeWeek": 1140,
+    "timeMonth": 1201,
+    "timeYear": 1163,
     "dailyMinutesDown": {
       "2025-09-28": 437,
       "2025-09-27": 1440,
@@ -381,8 +381,7 @@
       "2024-12-20": 1440,
       "2024-12-19": 1440,
       "2024-12-18": 1440,
-      "2024-12-17": 1440,
-      "2024-12-16": 1440
+      "2024-12-17": 1440
     }
   },
   {
@@ -391,7 +390,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/pan.wayok.cn.ico",
     "slug": "pan",
     "status": "down",
-    "uptime": "8.58%",
+    "uptime": "8.57%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -400,9 +399,10 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1228,
+    "timeYear": 1245,
     "dailyMinutesDown": {
-      "2025-12-15": 66,
+      "2025-12-16": 64,
+      "2025-12-15": 1440,
       "2025-12-14": 1440,
       "2025-12-13": 1440,
       "2025-12-12": 1440,
@@ -765,8 +765,7 @@
       "2024-12-20": 1440,
       "2024-12-19": 1440,
       "2024-12-18": 1440,
-      "2024-12-17": 1440,
-      "2024-12-16": 1440
+      "2024-12-17": 1440
     }
   }
 ]
