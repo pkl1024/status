@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/wayok.cn.ico",
     "slug": "way-blog",
     "status": "up",
-    "uptime": "93.48%",
+    "uptime": "93.49%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "90.89%",
     "uptimeMonth": "97.90%",
     "uptimeYear": "94.82%",
-    "time": 1641,
-    "timeDay": 1670,
-    "timeWeek": 1614,
-    "timeMonth": 1659,
-    "timeYear": 1652,
+    "time": 1642,
+    "timeDay": 2129,
+    "timeWeek": 1688,
+    "timeMonth": 1672,
+    "timeYear": 1653,
     "dailyMinutesDown": {
       "2025-12-13": 918,
       "2025-09-28": 437,
@@ -53,10 +53,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.15%",
-    "time": 1209,
-    "timeDay": 1247,
-    "timeWeek": 1193,
-    "timeMonth": 1185,
+    "time": 1210,
+    "timeDay": 1242,
+    "timeWeek": 1209,
+    "timeMonth": 1179,
     "timeYear": 1193,
     "dailyMinutesDown": {
       "2025-09-22": 594,
@@ -84,16 +84,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/jrebel.wayok.cn.ico",
     "slug": "jrebel-license-server",
     "status": "up",
-    "uptime": "55.06%",
+    "uptime": "55.12%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "22.39%",
-    "time": 1164,
-    "timeDay": 984,
-    "timeWeek": 1072,
-    "timeMonth": 1200,
-    "timeYear": 1158,
+    "uptimeYear": "22.67%",
+    "time": 1163,
+    "timeDay": 1071,
+    "timeWeek": 1087,
+    "timeMonth": 1196,
+    "timeYear": 1157,
     "dailyMinutesDown": {
       "2025-09-28": 437,
       "2025-09-27": 1440,
@@ -376,8 +376,7 @@
       "2024-12-24": 1440,
       "2024-12-23": 1440,
       "2024-12-22": 1440,
-      "2024-12-21": 1440,
-      "2024-12-20": 1440
+      "2024-12-21": 1440
     }
   },
   {
@@ -386,7 +385,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/pan.wayok.cn.ico",
     "slug": "pan",
     "status": "down",
-    "uptime": "8.53%",
+    "uptime": "8.52%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -395,9 +394,10 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1265,
+    "timeYear": 1270,
     "dailyMinutesDown": {
-      "2025-12-19": 64,
+      "2025-12-20": 60,
+      "2025-12-19": 1440,
       "2025-12-18": 1440,
       "2025-12-17": 1440,
       "2025-12-16": 1440,
@@ -760,8 +760,7 @@
       "2024-12-24": 1440,
       "2024-12-23": 1440,
       "2024-12-22": 1440,
-      "2024-12-21": 1440,
-      "2024-12-20": 1440
+      "2024-12-21": 1440
     }
   }
 ]
