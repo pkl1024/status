@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/wayok.cn.ico",
     "slug": "way-blog",
     "status": "up",
-    "uptime": "93.35%",
+    "uptime": "93.36%",
     "uptimeDay": "98.82%",
     "uptimeWeek": "99.83%",
     "uptimeMonth": "91.08%",
-    "uptimeYear": "94.81%",
-    "time": 1639,
-    "timeDay": 1765,
-    "timeWeek": 1688,
-    "timeMonth": 1657,
-    "timeYear": 1659,
+    "uptimeYear": "94.89%",
+    "time": 1640,
+    "timeDay": 1766,
+    "timeWeek": 1686,
+    "timeMonth": 1652,
+    "timeYear": 1660,
     "dailyMinutesDown": {
       "2026-01-04": 17,
       "2025-12-23": 138,
@@ -39,8 +39,7 @@
       "2025-06-17": 1373,
       "2025-03-19": 651,
       "2025-03-18": 1353,
-      "2025-01-06": 164,
-      "2025-01-05": 1440
+      "2025-01-06": 164
     }
   },
   {
@@ -54,10 +53,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "93.22%",
     "uptimeYear": "95.59%",
-    "time": 1207,
-    "timeDay": 1059,
-    "timeWeek": 1183,
-    "timeMonth": 1191,
+    "time": 1206,
+    "timeDay": 1286,
+    "timeWeek": 1176,
+    "timeMonth": 1194,
     "timeYear": 1192,
     "dailyMinutesDown": {
       "2025-12-23": 138,
@@ -88,16 +87,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/jrebel.wayok.cn.ico",
     "slug": "jrebel-license-server",
     "status": "up",
-    "uptime": "55.79%",
+    "uptime": "55.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "93.22%",
-    "uptimeYear": "26.40%",
-    "time": 1156,
-    "timeDay": 1252,
-    "timeWeek": 1157,
-    "timeMonth": 1148,
-    "timeYear": 1162,
+    "uptimeYear": "26.49%",
+    "time": 1159,
+    "timeDay": 1502,
+    "timeWeek": 1158,
+    "timeMonth": 1166,
+    "timeYear": 1166,
     "dailyMinutesDown": {
       "2025-12-23": 138,
       "2025-12-22": 1440,
@@ -367,8 +366,7 @@
       "2025-01-09": 1440,
       "2025-01-08": 1440,
       "2025-01-07": 1440,
-      "2025-01-06": 1440,
-      "2025-01-05": 1440
+      "2025-01-06": 1440
     }
   },
   {
@@ -388,7 +386,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-04": 1057,
+      "2026-01-05": 71,
+      "2026-01-04": 1440,
       "2026-01-03": 1440,
       "2026-01-02": 1440,
       "2026-01-01": 1440,
@@ -751,8 +750,7 @@
       "2025-01-09": 1440,
       "2025-01-08": 1440,
       "2025-01-07": 1440,
-      "2025-01-06": 1440,
-      "2025-01-05": 1440
+      "2025-01-06": 1440
     }
   }
 ]
