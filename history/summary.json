@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/wayok.cn.ico",
     "slug": "way-blog",
     "status": "up",
-    "uptime": "93.52%",
+    "uptime": "93.53%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "95.18%",
-    "time": 1650,
-    "timeDay": 1346,
-    "timeWeek": 1657,
-    "timeMonth": 1700,
-    "timeYear": 1665,
+    "time": 1651,
+    "timeDay": 1768,
+    "timeWeek": 1659,
+    "timeMonth": 1703,
+    "timeYear": 1666,
     "dailyMinutesDown": {
       "2026-01-05": 34,
       "2026-01-04": 17,
@@ -53,11 +53,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "95.59%",
-    "time": 1204,
-    "timeDay": 1003,
-    "timeWeek": 1276,
-    "timeMonth": 1232,
-    "timeYear": 1196,
+    "time": 1205,
+    "timeDay": 1259,
+    "timeWeek": 1259,
+    "timeMonth": 1233,
+    "timeYear": 1197,
     "dailyMinutesDown": {
       "2025-12-23": 138,
       "2025-12-22": 1440,
@@ -87,16 +87,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/jrebel.wayok.cn.ico",
     "slug": "jrebel-license-server",
     "status": "up",
-    "uptime": "56.91%",
+    "uptime": "56.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "31.69%",
-    "time": 1150,
-    "timeDay": 900,
-    "timeWeek": 1088,
-    "timeMonth": 1165,
-    "timeYear": 1163,
+    "uptimeYear": "31.97%",
+    "time": 1151,
+    "timeDay": 1361,
+    "timeWeek": 1161,
+    "timeMonth": 1172,
+    "timeYear": 1164,
     "dailyMinutesDown": {
       "2025-12-23": 138,
       "2025-12-22": 1440,
@@ -346,8 +346,7 @@
       "2025-01-29": 1440,
       "2025-01-28": 1440,
       "2025-01-27": 1440,
-      "2025-01-26": 1440,
-      "2025-01-25": 1440
+      "2025-01-26": 1440
     }
   },
   {
@@ -356,7 +355,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/pan.wayok.cn.ico",
     "slug": "pan",
     "status": "down",
-    "uptime": "8.13%",
+    "uptime": "8.12%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -367,7 +366,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-24": 64,
+      "2026-01-25": 73,
+      "2026-01-24": 1440,
       "2026-01-23": 1440,
       "2026-01-22": 1440,
       "2026-01-21": 1440,
@@ -730,8 +730,7 @@
       "2025-01-29": 1440,
       "2025-01-28": 1440,
       "2025-01-27": 1440,
-      "2025-01-26": 1440,
-      "2025-01-25": 1440
+      "2025-01-26": 1440
     }
   }
 ]
