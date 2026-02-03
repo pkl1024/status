@@ -11,10 +11,10 @@
     "uptimeMonth": "99.88%",
     "uptimeYear": "95.18%",
     "time": 1653,
-    "timeDay": 1688,
-    "timeWeek": 1663,
-    "timeMonth": 1709,
-    "timeYear": 1664,
+    "timeDay": 2101,
+    "timeWeek": 1733,
+    "timeMonth": 1718,
+    "timeYear": 1666,
     "dailyMinutesDown": {
       "2026-01-05": 34,
       "2026-01-04": 17,
@@ -48,16 +48,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/server.wayok.cn.ico",
     "slug": "server-for-tao-bao",
     "status": "up",
-    "uptime": "96.29%",
+    "uptime": "96.30%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "95.59%",
     "time": 1187,
-    "timeDay": 1360,
-    "timeWeek": 1187,
-    "timeMonth": 1242,
-    "timeYear": 1197,
+    "timeDay": 1367,
+    "timeWeek": 1198,
+    "timeMonth": 1244,
+    "timeYear": 1198,
     "dailyMinutesDown": {
       "2025-12-23": 138,
       "2025-12-22": 1440,
@@ -87,15 +87,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/jrebel.wayok.cn.ico",
     "slug": "jrebel-license-server",
     "status": "up",
-    "uptime": "57.41%",
+    "uptime": "57.47%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "34.16%",
-    "time": 1155,
-    "timeDay": 1325,
-    "timeWeek": 1210,
-    "timeMonth": 1189,
+    "uptimeYear": "34.44%",
+    "time": 1157,
+    "timeDay": 1176,
+    "timeWeek": 1202,
+    "timeMonth": 1185,
     "timeYear": 1167,
     "dailyMinutesDown": {
       "2025-12-23": 138,
@@ -337,8 +337,7 @@
       "2025-02-07": 1440,
       "2025-02-06": 1440,
       "2025-02-05": 1440,
-      "2025-02-04": 1440,
-      "2025-02-03": 1440
+      "2025-02-04": 1440
     }
   },
   {
@@ -347,7 +346,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/pan.wayok.cn.ico",
     "slug": "pan",
     "status": "down",
-    "uptime": "8.04%",
+    "uptime": "8.02%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -358,7 +357,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-02": 80,
+      "2026-02-03": 81,
+      "2026-02-02": 1440,
       "2026-02-01": 1440,
       "2026-01-31": 1440,
       "2026-01-30": 1440,
@@ -721,8 +721,7 @@
       "2025-02-07": 1440,
       "2025-02-06": 1440,
       "2025-02-05": 1440,
-      "2025-02-04": 1440,
-      "2025-02-03": 1440
+      "2025-02-04": 1440
     }
   }
 ]
