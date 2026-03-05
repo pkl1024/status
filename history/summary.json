@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "95.18%",
     "time": 1656,
-    "timeDay": 1630,
-    "timeWeek": 1533,
-    "timeMonth": 1661,
+    "timeDay": 1792,
+    "timeWeek": 1579,
+    "timeMonth": 1666,
     "timeYear": 1665,
     "dailyMinutesDown": {
       "2026-01-05": 34,
@@ -48,16 +48,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/server.wayok.cn.ico",
     "slug": "server-for-tao-bao",
     "status": "up",
-    "uptime": "96.43%",
+    "uptime": "96.44%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "95.59%",
     "time": 1188,
-    "timeDay": 1103,
-    "timeWeek": 1006,
-    "timeMonth": 1144,
-    "timeYear": 1192,
+    "timeDay": 1256,
+    "timeWeek": 1048,
+    "timeMonth": 1153,
+    "timeYear": 1193,
     "dailyMinutesDown": {
       "2025-12-23": 138,
       "2025-12-22": 1440,
@@ -87,15 +87,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/jrebel.wayok.cn.ico",
     "slug": "jrebel-license-server",
     "status": "up",
-    "uptime": "59.01%",
+    "uptime": "59.06%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "42.38%",
-    "time": 1153,
-    "timeDay": 1174,
-    "timeWeek": 1054,
-    "timeMonth": 1145,
+    "uptimeYear": "42.65%",
+    "time": 1154,
+    "timeDay": 1274,
+    "timeWeek": 1086,
+    "timeMonth": 1147,
     "timeYear": 1164,
     "dailyMinutesDown": {
       "2025-12-23": 138,
@@ -307,8 +307,7 @@
       "2025-03-09": 1440,
       "2025-03-08": 1440,
       "2025-03-07": 1440,
-      "2025-03-06": 1440,
-      "2025-03-05": 1440
+      "2025-03-06": 1440
     }
   },
   {
@@ -317,7 +316,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/pan.wayok.cn.ico",
     "slug": "pan",
     "status": "down",
-    "uptime": "7.74%",
+    "uptime": "7.73%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -328,7 +327,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-04": 77,
+      "2026-03-05": 79,
+      "2026-03-04": 1440,
       "2026-03-03": 1440,
       "2026-03-02": 1440,
       "2026-03-01": 1440,
@@ -691,8 +691,7 @@
       "2025-03-09": 1440,
       "2025-03-08": 1440,
       "2025-03-07": 1440,
-      "2025-03-06": 1440,
-      "2025-03-05": 1440
+      "2025-03-06": 1440
     }
   }
 ]
