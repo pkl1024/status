@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "95.18%",
-    "time": 1655,
-    "timeDay": 1425,
-    "timeWeek": 1530,
-    "timeMonth": 1629,
+    "time": 1656,
+    "timeDay": 1741,
+    "timeWeek": 1570,
+    "timeMonth": 1641,
     "timeYear": 1658,
     "dailyMinutesDown": {
       "2026-01-05": 34,
@@ -48,15 +48,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/server.wayok.cn.ico",
     "slug": "server-for-tao-bao",
     "status": "up",
-    "uptime": "96.48%",
+    "uptime": "96.49%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.41%",
+    "uptimeYear": "96.68%",
     "time": 1189,
-    "timeDay": 1009,
-    "timeWeek": 1077,
-    "timeMonth": 1130,
+    "timeDay": 1344,
+    "timeWeek": 1111,
+    "timeMonth": 1141,
     "timeYear": 1191,
     "dailyMinutesDown": {
       "2025-12-23": 138,
@@ -73,8 +73,7 @@
       "2025-09-14": 1366,
       "2025-08-19": 72,
       "2025-06-16": 371,
-      "2025-03-18": 639,
-      "2025-03-17": 1440
+      "2025-03-18": 639
     }
   },
   {
@@ -83,16 +82,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/jrebel.wayok.cn.ico",
     "slug": "jrebel-license-server",
     "status": "up",
-    "uptime": "59.61%",
+    "uptime": "59.66%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "45.67%",
-    "time": 1153,
-    "timeDay": 1015,
-    "timeWeek": 987,
-    "timeMonth": 1084,
-    "timeYear": 1156,
+    "uptimeYear": "45.94%",
+    "time": 1154,
+    "timeDay": 1284,
+    "timeWeek": 1018,
+    "timeMonth": 1087,
+    "timeYear": 1157,
     "dailyMinutesDown": {
       "2026-03-08": 19,
       "2025-12-23": 138,
@@ -292,8 +291,7 @@
       "2025-03-21": 1440,
       "2025-03-20": 1440,
       "2025-03-19": 1440,
-      "2025-03-18": 1440,
-      "2025-03-17": 1440
+      "2025-03-18": 1440
     }
   },
   {
@@ -302,18 +300,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/pan.wayok.cn.ico",
     "slug": "pan",
     "status": "down",
-    "uptime": "7.62%",
+    "uptime": "7.61%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
     "uptimeYear": "0.00%",
-    "time": 1162,
+    "time": 1158,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-16": 89,
+      "2026-03-17": 81,
+      "2026-03-16": 1440,
       "2026-03-15": 1440,
       "2026-03-14": 1440,
       "2026-03-13": 1440,
@@ -676,8 +675,7 @@
       "2025-03-21": 1440,
       "2025-03-20": 1440,
       "2025-03-19": 1440,
-      "2025-03-18": 1440,
-      "2025-03-17": 1440
+      "2025-03-18": 1440
     }
   }
 ]
