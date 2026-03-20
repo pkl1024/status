@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/wayok.cn.ico",
     "slug": "way-blog",
     "status": "up",
-    "uptime": "93.95%",
+    "uptime": "93.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.45%",
-    "time": 1655,
-    "timeDay": 1546,
-    "timeWeek": 1592,
-    "timeMonth": 1618,
+    "uptimeYear": "95.56%",
+    "time": 1656,
+    "timeDay": 1920,
+    "timeWeek": 1627,
+    "timeMonth": 1614,
     "timeYear": 1658,
     "dailyMinutesDown": {
       "2026-01-05": 34,
@@ -52,9 +52,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.06%",
     "time": 1189,
-    "timeDay": 1192,
-    "timeWeek": 1126,
-    "timeMonth": 1128,
+    "timeDay": 1291,
+    "timeWeek": 1138,
+    "timeMonth": 1125,
     "timeYear": 1191,
     "dailyMinutesDown": {
       "2025-12-23": 138,
@@ -79,15 +79,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/jrebel.wayok.cn.ico",
     "slug": "jrebel-license-server",
     "status": "up",
-    "uptime": "59.76%",
+    "uptime": "59.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "46.49%",
+    "uptimeYear": "46.76%",
     "time": 1154,
-    "timeDay": 1176,
+    "timeDay": 1130,
     "timeWeek": 1041,
-    "timeMonth": 1077,
+    "timeMonth": 1087,
     "timeYear": 1156,
     "dailyMinutesDown": {
       "2026-03-08": 19,
@@ -285,8 +285,7 @@
       "2025-03-24": 1440,
       "2025-03-23": 1440,
       "2025-03-22": 1440,
-      "2025-03-21": 1440,
-      "2025-03-20": 1440
+      "2025-03-21": 1440
     }
   },
   {
@@ -295,18 +294,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/pan.wayok.cn.ico",
     "slug": "pan",
     "status": "down",
-    "uptime": "7.59%",
+    "uptime": "7.58%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
     "uptimeYear": "0.00%",
-    "time": 1163,
+    "time": 1166,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-19": 84,
+      "2026-03-20": 79,
+      "2026-03-19": 1440,
       "2026-03-18": 1440,
       "2026-03-17": 1440,
       "2026-03-16": 1440,
@@ -669,8 +669,7 @@
       "2025-03-24": 1440,
       "2025-03-23": 1440,
       "2025-03-22": 1440,
-      "2025-03-21": 1440,
-      "2025-03-20": 1440
+      "2025-03-21": 1440
     }
   }
 ]
