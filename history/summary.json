@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/wayok.cn.ico",
     "slug": "way-blog",
     "status": "down",
-    "uptime": "88.24%",
+    "uptime": "88.14%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "80.70%",
+    "uptimeYear": "80.43%",
     "time": 1594,
-    "timeDay": 724,
-    "timeWeek": 1078,
-    "timeMonth": 1034,
-    "timeYear": 1586,
+    "timeDay": 1158,
+    "timeWeek": 1071,
+    "timeMonth": 1039,
+    "timeYear": 1584,
     "dailyMinutesDown": {
-      "2026-05-22": 155,
+      "2026-05-23": 132,
+      "2026-05-22": 1440,
       "2026-05-21": 1440,
       "2026-05-20": 1440,
       "2026-05-19": 1440,
@@ -109,8 +110,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.93%",
     "time": 1182,
-    "timeDay": 1043,
-    "timeWeek": 1221,
+    "timeDay": 966,
+    "timeWeek": 1181,
     "timeMonth": 1094,
     "timeYear": 1183,
     "dailyMinutesDown": {
@@ -141,15 +142,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/jrebel.wayok.cn.ico",
     "slug": "jrebel-license-server",
     "status": "up",
-    "uptime": "62.63%",
+    "uptime": "62.67%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "63.90%",
+    "uptimeYear": "64.17%",
     "time": 1140,
-    "timeDay": 868,
-    "timeWeek": 1163,
-    "timeMonth": 1074,
+    "timeDay": 1117,
+    "timeWeek": 1139,
+    "timeMonth": 1082,
     "timeYear": 1140,
     "dailyMinutesDown": {
       "2026-04-01": 300,
@@ -286,8 +287,7 @@
       "2025-05-27": 1440,
       "2025-05-26": 1440,
       "2025-05-25": 1440,
-      "2025-05-24": 1440,
-      "2025-05-23": 1440
+      "2025-05-24": 1440
     }
   },
   {
@@ -296,7 +296,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/pan.wayok.cn.ico",
     "slug": "pan",
     "status": "down",
-    "uptime": "7.04%",
+    "uptime": "7.03%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -307,7 +307,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-22": 156,
+      "2026-05-23": 132,
+      "2026-05-22": 1440,
       "2026-05-21": 1440,
       "2026-05-20": 1440,
       "2026-05-19": 1440,
@@ -670,8 +671,7 @@
       "2025-05-27": 1440,
       "2025-05-26": 1440,
       "2025-05-25": 1440,
-      "2025-05-24": 1440,
-      "2025-05-23": 1440
+      "2025-05-24": 1440
     }
   }
 ]
