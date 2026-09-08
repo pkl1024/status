@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/wayok.cn.ico",
     "slug": "way-blog",
     "status": "down",
-    "uptime": "78.59%",
+    "uptime": "78.53%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "51.37%",
+    "uptimeYear": "51.18%",
     "time": 1465,
-    "timeDay": 1488,
-    "timeWeek": 997,
-    "timeMonth": 1021,
+    "timeDay": 0,
+    "timeWeek": 1035,
+    "timeMonth": 1019,
     "timeYear": 1388,
     "dailyMinutesDown": {
       "2025-09-28": 437,
@@ -41,7 +41,8 @@
       "2026-03-31": 1440,
       "2026-03-30": 1440,
       "2026-03-29": 598,
-      "2026-09-07": 590,
+      "2026-09-08": 135,
+      "2026-09-07": 1440,
       "2026-09-06": 1440,
       "2026-09-05": 1440,
       "2026-09-04": 1440,
@@ -208,15 +209,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/server.wayok.cn.ico",
     "slug": "server-for-tao-bao",
     "status": "down",
-    "uptime": "97.00%",
-    "uptimeDay": "99.32%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "96.72%",
+    "uptime": "96.94%",
+    "uptimeDay": "30.86%",
+    "uptimeWeek": "90.12%",
+    "uptimeMonth": "97.73%",
+    "uptimeYear": "96.53%",
     "time": 1164,
-    "timeDay": 1217,
-    "timeWeek": 1084,
-    "timeMonth": 1050,
+    "timeDay": 0,
+    "timeWeek": 1093,
+    "timeMonth": 1047,
     "timeYear": 1148,
     "dailyMinutesDown": {
       "2025-09-22": 594,
@@ -243,7 +244,8 @@
       "2026-07-25": 110,
       "2026-07-28": 217,
       "2026-07-27": 443,
-      "2026-09-07": 10
+      "2026-09-08": 136,
+      "2026-09-07": 860
     }
   },
   {
@@ -252,15 +254,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/jrebel.wayok.cn.ico",
     "slug": "jrebel-license-server",
     "status": "down",
-    "uptime": "66.64%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptime": "66.60%",
+    "uptimeDay": "31.20%",
+    "uptimeWeek": "90.17%",
+    "uptimeMonth": "97.74%",
     "uptimeYear": "93.34%",
     "time": 1123,
-    "timeDay": 1488,
-    "timeWeek": 1058,
-    "timeMonth": 1049,
+    "timeDay": 0,
+    "timeWeek": 1095,
+    "timeMonth": 1047,
     "timeYear": 1123,
     "dailyMinutesDown": {
       "2025-09-28": 437,
@@ -283,7 +285,6 @@
       "2025-09-11": 1440,
       "2025-09-10": 1440,
       "2025-09-09": 1440,
-      "2025-09-08": 1440,
       "2025-12-23": 138,
       "2025-12-22": 1440,
       "2025-12-21": 1392,
@@ -297,7 +298,8 @@
       "2026-07-25": 41,
       "2026-07-28": 217,
       "2026-07-27": 438,
-      "2026-09-07": 5
+      "2026-09-08": 136,
+      "2026-09-07": 855
     }
   },
   {
@@ -317,7 +319,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-07": 590,
+      "2026-09-08": 136,
+      "2026-09-07": 1440,
       "2026-09-06": 1440,
       "2026-09-05": 1440,
       "2026-09-04": 1440,
@@ -680,8 +683,7 @@
       "2025-09-12": 1440,
       "2025-09-11": 1440,
       "2025-09-10": 1440,
-      "2025-09-09": 1440,
-      "2025-09-08": 1440
+      "2025-09-09": 1440
     }
   }
 ]
